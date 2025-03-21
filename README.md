@@ -1,4 +1,4 @@
-## Hi there 👋
+## Glad you are here! Explore my data portfolio!  👋
 
 ### 👩‍💻 I am a Data Scientist based in Guelph, Ontario with a background in the Retail grocery business
 
